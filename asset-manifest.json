@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/tytti/static/css/main.073c9b0a.css",
-    "main.js": "/tytti/static/js/main.1a97a615.js",
-    "static/js/787.e75efd34.chunk.js": "/tytti/static/js/787.e75efd34.chunk.js",
-    "static/media/logo.svg": "/tytti/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/tytti/index.html",
-    "main.073c9b0a.css.map": "/tytti/static/css/main.073c9b0a.css.map",
-    "main.1a97a615.js.map": "/tytti/static/js/main.1a97a615.js.map",
-    "787.e75efd34.chunk.js.map": "/tytti/static/js/787.e75efd34.chunk.js.map"
+    "main.css": "/tutti/static/css/main.073c9b0a.css",
+    "main.js": "/tutti/static/js/main.c59899e0.js",
+    "static/js/787.e75efd34.chunk.js": "/tutti/static/js/787.e75efd34.chunk.js",
+    "static/media/logo.svg": "/tutti/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/tutti/index.html",
+    "main.073c9b0a.css.map": "/tutti/static/css/main.073c9b0a.css.map",
+    "main.c59899e0.js.map": "/tutti/static/js/main.c59899e0.js.map",
+    "787.e75efd34.chunk.js.map": "/tutti/static/js/787.e75efd34.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.1a97a615.js"
+    "static/js/main.c59899e0.js"
   ]
 }
